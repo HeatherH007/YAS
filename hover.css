@@ -1,0 +1,9 @@
+function campus(){
+    document.defaultImg.src="/virtualtour/main/images/campus.png";
+}
+function softball(){
+    document.defaultImg.src="/virtualtour/main/images/softballField.png";
+}
+function baseball(){
+    document.defaultImg.src="/virtualtour/main/images/baseballField.png";
+}
