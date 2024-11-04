@@ -1,0 +1,9 @@
+<div id="mainCampus">
+    <img name="defaultImg" usemap="#campus" src="images/campus.png" width="606" height="385" alt="Map of main campus" />
+</div>
+
+<map id="campus" name="campus">
+     <area shape="poly" alt="Softball field" coords="108,47,89,85,4" href="/virtualtour/main/fields"  onMouseOver="softball()" onMouseOut="campus()">
+
+     <area shape="poly" alt="Baseball field" coords="86,92,74,133" href="/virtualtour/main/fields"  onMouseOver="baseball()" onMouseOut="campus()">
+</map>
